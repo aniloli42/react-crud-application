@@ -1,0 +1,9 @@
+{
+  "short_name": "CRUD Application",
+  "name": "React CRUD Application",
+  "description": "Website where you can perform create, read, update & delete operations.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
